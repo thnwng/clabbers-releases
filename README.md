@@ -2,9 +2,6 @@
 
 Download shelf and update feed for **Clabbers**, a Scrabble word-study app
 (FSRS spaced-repetition flashcards, a daily challenge, and head-to-head races).
-The app itself lives at [sg.clabbers.app](https://sg.clabbers.app).
-
-This repository holds **release downloads only**.
 
 ## Downloads
 
